@@ -1,2 +1,2 @@
 # 1
-this is my first git account<br>samikshya bal
+This is my first git account<br>Samikshya bal
